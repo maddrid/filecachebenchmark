@@ -1,5 +1,5 @@
 {
-    "name": "web-media/FileCacheBenchmark",
+    "name": "web-media/filecachebenchmark",
     "description": "Benchmarking various FileCache Drivers",
     "keywords": ["Benchmark FileCache"],
     "license": "MIT",
