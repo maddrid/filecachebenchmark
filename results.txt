@@ -1,0 +1,112 @@
+cold cache 2000 items
+
+Array
+(
+    [doctrine] => Array
+        (
+            [start] => 1568138791.9666
+            [end] => 1568138795.463
+            [start_memory] => 484496
+            [end_memory] => 555232
+            [duration] => 3.4964
+            [memory] => 69.08 kb
+        )
+
+    [fastcache] => Array
+        (
+            [start] => 1568138795.463
+            [end] => 1568138796.6174
+            [start_memory] => 555608
+            [end_memory] => 4106848
+            [duration] => 1.1544
+            [memory] => 3.39 mb
+        )
+
+    [codeigniter] => Array
+        (
+            [start] => 1568138796.6174
+            [end] => 1568138798.8804
+            [start_memory] => 4107224
+            [end_memory] => 4166968
+            [duration] => 2.263
+            [memory] => 58.34 kb
+        )
+
+    [symfony] => Array
+        (
+            [start] => 1568138798.8804
+            [end] => 1568138803.503
+            [start_memory] => 4167344
+            [end_memory] => 4595600
+            [duration] => 4.6226
+            [memory] => 418.22 kb
+        )
+
+    [stash] => Array
+        (
+            [start] => 1568138803.503
+            [end] => 1568138805.8596
+            [start_memory] => 4595976
+            [end_memory] => 4888952
+            [duration] => 2.3566
+            [memory] => 286.11 kb
+        )
+
+)
+
+read 3000
+Array
+(
+    [doctrine] => Array
+        (
+            [start] => 1568140023.5006
+            [end] => 1568140023.9062
+            [start_memory] => 492264
+            [end_memory] => 563000
+            [load] => 10%
+            [duration] => 0.4056
+            [memory] => 69.08 kb
+        )
+
+    [fastcache] => Array
+        (
+            [start] => 1568140025.0782
+            [end] => 1568140025.672
+            [start_memory] => 563408
+            [end_memory] => 5653136
+            [load] => 5%
+            [duration] => 0.5938
+            [memory] => 4.85 mb
+        )
+
+    [codeigniter] => Array
+        (
+            [start] => 1568140026.842
+            [end] => 1568140027.1228
+            [start_memory] => 5653544
+            [end_memory] => 5713592
+            [load] => 5%
+            [duration] => 0.2808
+            [memory] => 58.64 kb
+        )
+
+    [symfony] => Array
+        (
+            [start] => 1568140028.3094
+            [end] => 1568140028.6702
+            [start_memory] => 5714000
+            [end_memory] => 6264496
+            [load] => 11%
+            [duration] => 0.3608
+            [memory] => 537.59 kb
+        )
+
+    [stash] => Array
+        (
+            [start] => 1568140029.8412
+            [end] => 1568140030.1708
+            [start_memory] => 6264904
+            [end_memory] => 7992464
+            [load] => 8%
+            [duration] => 0.3296
+            [memory] => 1.65 mb
