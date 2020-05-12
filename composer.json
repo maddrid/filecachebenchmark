@@ -1,12 +1,12 @@
 {
-    "name": "oscmad/filecache-benchmark",
-    "description": "Benchmarking library",
-    "keywords": ["Benchmark"],
+    "name": "web-media/FileCacheBenchmark",
+    "description": "Benchmarking various FileCache Drivers",
+    "keywords": ["Benchmark FileCache"],
     "license": "MIT",
    
     "require": {
         "php": ">=5.5",
-        "symfony/cache": "4.3.4",
+        "symfony/cache": "4.3.8",
         "doctrine/cache": "dev-master",
 		"phpfastcache/phpfastcache": "~7.0.1",
         "tedivm/stash": "0.15.1"
